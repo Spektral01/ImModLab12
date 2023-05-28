@@ -1,0 +1,10 @@
+C:\Users\chaly\source\repos\ImModLab12\ImModLab12\obj\Debug\ImModLab12.csproj.AssemblyReference.cache
+C:\Users\chaly\source\repos\ImModLab12\ImModLab12\obj\Debug\ImModLab12.Form1.resources
+C:\Users\chaly\source\repos\ImModLab12\ImModLab12\obj\Debug\ImModLab12.Properties.Resources.resources
+C:\Users\chaly\source\repos\ImModLab12\ImModLab12\obj\Debug\ImModLab12.csproj.GenerateResource.cache
+C:\Users\chaly\source\repos\ImModLab12\ImModLab12\obj\Debug\ImModLab12.csproj.CoreCompileInputs.cache
+C:\Users\chaly\source\repos\ImModLab12\ImModLab12\bin\Debug\ImModLab12.exe.config
+C:\Users\chaly\source\repos\ImModLab12\ImModLab12\bin\Debug\ImModLab12.exe
+C:\Users\chaly\source\repos\ImModLab12\ImModLab12\bin\Debug\ImModLab12.pdb
+C:\Users\chaly\source\repos\ImModLab12\ImModLab12\obj\Debug\ImModLab12.exe
+C:\Users\chaly\source\repos\ImModLab12\ImModLab12\obj\Debug\ImModLab12.pdb
